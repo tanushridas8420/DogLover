@@ -1,0 +1,82 @@
+/* navigation */
+#top-nav{
+background-color: rgb(138, 177, 138);
+padding: 0 6%;
+}
+#heading{
+      font-size: 23px;}
+#top-page{
+      padding-left: 20px;
+      font-size: 18px;
+}
+#searchbox{
+      background-color: rgb(139, 190, 139);
+      color: white;
+      border: 0.3px solid white;
+      border-radius: 0.3px;
+      position: relative;
+     box-shadow: 5px 10px 11px 0px #00000021;
+}
+#searchbox::placeholder{
+      color:white;
+}
+#searchbtn{
+position:relative;
+left:-6px;
+background-color: orange;
+color: white;
+border: 0.3px solid white;
+border-radius: 0.3px;
+position: relative
+}
+
+#searchform{
+      margin-bottom: 20px;
+      margin-top: 10px;
+     position: relative;
+      left:18px;
+}
+
+/* banner style */
+#banner{
+      background-color: rgb(139, 190, 139) ;
+      padding-bottom: 25px;
+      padding-top: 25px;
+}
+#textbanner h1{
+      color: white;
+      font-size: 50px;
+     padding-top: 100px;
+}
+#textbanner p{
+      color: white;
+      font-size: 20px;
+     padding-top: 10px;
+}
+#bannerbtn{
+      background-color: orange;
+      color: white; 
+      border:2px solid white;
+      margin-bottom: 15px;
+}
+
+/* .serviceclass{
+      background-color:rgb(152, 186, 152) ;
+      margin-top: -21px; */
+
+
+#service{
+      background-color: rgb(139, 190, 139) ;
+}
+#btnservice{
+      background-color: orange;
+      color: white; 
+      border:2px solid white;
+      margin-bottom: 15px;
+}
+
+#bottomsection{
+/* background-image: url("./img/img2.jpg"); */
+background-color: rgb(216, 199, 42) ;
+padding-left: 285px;
+}
